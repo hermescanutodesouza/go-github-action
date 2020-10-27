@@ -4,5 +4,5 @@ description: "go-github-actions"
 runs:
   using: composite
   steps:
-    - run: go run main.go
+    - run: go run mainw.go
       shell: bash
