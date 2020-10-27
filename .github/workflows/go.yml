@@ -21,4 +21,4 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Go Git hub Action
-      uses: hermescanutodesouza/go-github-action
+      uses: hermescanutodesouza/go-github-action@v
